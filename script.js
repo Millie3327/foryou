@@ -4,7 +4,7 @@ i really took my time thinking about this since last year, before new year pa. a
 
 maybe this is the time na pipindutin ko na 'yung rice cooker theory na nalaman mo sa tiktok? hahahahahahahahhhaha hanep eh. so ayun nga, i want you to do the same rin po. think about it and ask yourself if you are really sure about your feelings for me.
 
-thank you so much again for not rushing things with me. talking to you never felt overwhelming, and that means a lot to me. so with that, i want to ask you something :))
+thank you so much again for not rushing things with me. talking to you never felt overwhelming, and that means a lot to me. i want the answer “yes,” to come from you genuinely. so with that, i want to ask you something :))
 
 may i court you, classmate, boi, beh, vanna alexandra endriga bernardo?`;
 
@@ -39,4 +39,5 @@ function showLetter() {
   }
 
   typeWriter();
+
 }
